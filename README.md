@@ -1,34 +1,78 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Getting Started
+# Raz App Frontend
 
-First, run the development server:
+Raz is web app that we build using next js and express js.
+Raz is great way to cut costs in the long run as you will be offering your products online. This will create an opportunity for your customers to buy your products at any location and at any time-increasing your sales significantly
+For Deployment frontend we're using vercel and out related project for server side [project](##Related) 
 
-```bash
-npm run dev
-# or
-yarn dev
+
+![Raz](https://drive.google.com/uc?export=view&id=1FcgncPq7HGnaEXO0tmrE6r2ZykxhtSF-)
+
+[![react-router-dom](https://img.shields.io/npm/v/react-router-dom?label=react-router-dom)](https://www.npmjs.com/package/react-router-dom)
+[![axios](https://img.shields.io/npm/v/axios?label=axios)](https://www.npmjs.com/package/axios)
+[![chart.js](https://img.shields.io/npm/v/chart.js?label=chart.js)](https://www.npmjs.com/package/chart.js)
+[![redux](https://img.shields.io/npm/v/redux?label=redux)](https://www.npmjs.com/package/redux)
+
+# Installation
+
+## 1. Clone this repository
+
+Clone this repository by run the following code:
+
+```
+$ git clone https://github.com/okidwijaya/raz-app
+```
+## 2. Go to directory
+
+```
+$ cd raz-app
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 3. Install dependency packages
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+Install dependency packages by run the following code inside project folder:
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+```
+$ npm install
+```
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+## Deploy
 
-## Learn More
+[Raz App - Vercel](https://raz-garlic.vercel.app/)
 
-To learn more about Next.js, take a look at the following resources:
+## Screenshot
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+<div align="center">
+<img width="500" src="https://drive.google.com/uc?export=view&id=1JGGu6ursmkqwlLVFCvNh-Bi3dR34p5Qy" alt="Home page">
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+<img width="300" src="https://drive.google.com/uc?export=view&id=1utTXOmKdl3c54jpnxFMIDyPr5ctcAiDW" alt="page">
+</div>
 
-## Deploy on Vercel
+## Other Common Github Profile Sections
+👩‍💻 we're currently working on...
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+🧠 we're currently learning...
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+👯‍♀️ we're looking to collaborate on...
+
+🤔 we're looking for help with...
+
+💬 Ask me about this project
+
+📫 How to reach us @ okidwijaya@gmail.com
+
+
+## Authors
+
+- [@okidwijaya]( https://github.com/okidwijaya)
+- [@anshoriacc]( https://github.com/anshoriacc)
+- [@ahmadFauxan]( https://github.com/special-snowflake)
+- [@fajarpratama](https://github.com/ikehikeh151   )
+
+
+## Related
+
+Here are some related projects
+
+[Raz Backend](https://github.com/okidwijaya/raz-app)
+
